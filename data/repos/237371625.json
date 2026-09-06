@@ -5,7 +5,7 @@
         "full_name": "CareyWang\/sub-web",
         "name": "sub-web",
         "html_url": "https:\/\/github.com\/CareyWang\/sub-web",
-        "language": "Vue",
+        "language": "JavaScript",
         "description": "sub-web 是一个基于 Vue 的订阅转换前端界面，主要用于将不同格式的代理订阅链接（如 Clash、V2Ray、SS\/SSR 等）转换为目标客户端可用的配置。它通常配合后端转换服务使用，适合需要统一管理订阅、自定义规则或生成短链接的用户。界面支持多后端切换、自定义远程配置模板和用户管理，部署后可通过 Web 浏览器完成转换操作，是自建订阅转换服务的常见选择之一。"
     },
     "summary": {
