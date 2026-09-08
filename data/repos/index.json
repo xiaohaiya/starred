@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "updated_at": "2026-09-09 00:00:15",
+    "updated_at": "2026-09-09 06:00:14",
     "processed_snapshots": {
         "2025062415": true,
         "2025062416": true,
@@ -428,7 +428,8 @@
         "2026090806": true,
         "2026090812": true,
         "2026090818": true,
-        "2026090900": true
+        "2026090900": true,
+        "2026090906": true
     },
     "map": {
         "ebookfoundation\/free-programming-books": 13491895,
@@ -6516,7 +6517,8 @@
         "bookstackapp\/bookstack": 41589337,
         "41589337": 41589337,
         "chen-006\/meow-llm-detector": 1315704673,
-        "meow-llm-detector": 1315704673
+        "meow-llm-detector": 1315704673,
+        "newsnext\/newsnow": 861790708
     },
     "repos_meta": {
         "13491895": {
@@ -13866,7 +13868,7 @@
         },
         "861790708": {
             "id": 861790708,
-            "full_name": "ourongxing\/newsnow",
+            "full_name": "newsnext\/newsnow",
             "file": "data\/repos\/861790708.json"
         },
         "747726566": {
@@ -16660,5 +16662,5 @@
             "file": "data\/repos\/41589337.json"
         }
     },
-    "snapshot_count": 427
+    "snapshot_count": 428
 }
