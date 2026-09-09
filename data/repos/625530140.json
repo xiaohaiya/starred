@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "repo": {
+        "id": 625530140,
+        "full_name": "zzp198\/Google-Chrome-Portable",
+        "name": "Google-Chrome-Portable",
+        "html_url": "https:\/\/github.com\/zzp198\/Google-Chrome-Portable",
+        "language": "Python",
+        "description": "用于让 Google Chrome 以便携模式运行，无需安装即可直接启动，并将书签、扩展、设置等用户数据保存到指定目录而非系统盘中，便于复制、迁移或随 U 盘携带使用。通常适合在多台 Windows 电脑间切换、公共计算机或受限环境中建立个人浏览器空间，避免在主机上留下使用痕迹或系统残留，也可作为绿色软件集成进日常工具箱。具体操作方式以仓库内说明为准。"
+    },
+    "summary": {
+        "initial_stars": 455,
+        "current_stars": 455,
+        "star_diff": 0,
+        "growth_rate": 0,
+        "first_seen": "2026-09-09 18:00",
+        "last_seen": "2026-09-09 18:00",
+        "data_points_count": 1
+    },
+    "history": [
+        {
+            "date": "2026-09-09 18:00",
+            "timestamp": 1788948000,
+            "stars": 455,
+            "forks": 69,
+            "file": "data\/dist\/2026090918\/starList.public.json"
+        }
+    ]
+}

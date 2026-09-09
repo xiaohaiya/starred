@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "updated_at": "2026-09-09 12:00:13",
+    "updated_at": "2026-09-09 18:00:22",
     "processed_snapshots": {
         "2025062415": true,
         "2025062416": true,
@@ -430,7 +430,8 @@
         "2026090818": true,
         "2026090900": true,
         "2026090906": true,
-        "2026090912": true
+        "2026090912": true,
+        "2026090918": true
     },
     "map": {
         "ebookfoundation\/free-programming-books": 13491895,
@@ -6519,7 +6520,10 @@
         "41589337": 41589337,
         "chen-006\/meow-llm-detector": 1315704673,
         "meow-llm-detector": 1315704673,
-        "newsnext\/newsnow": 861790708
+        "newsnext\/newsnow": 861790708,
+        "zzp198\/google-chrome-portable": 625530140,
+        "google-chrome-portable": 625530140,
+        "625530140": 625530140
     },
     "repos_meta": {
         "13491895": {
@@ -16661,7 +16665,12 @@
             "id": 41589337,
             "full_name": "BookStackApp\/BookStack",
             "file": "data\/repos\/41589337.json"
+        },
+        "625530140": {
+            "id": 625530140,
+            "full_name": "zzp198\/Google-Chrome-Portable",
+            "file": "data\/repos\/625530140.json"
         }
     },
-    "snapshot_count": 429
+    "snapshot_count": 430
 }
