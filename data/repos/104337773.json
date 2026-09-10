@@ -5,17 +5,17 @@
         "full_name": "1c7\/chinese-independent-developer",
         "name": "chinese-independent-developer",
         "html_url": "https:\/\/github.com\/1c7\/chinese-independent-developer",
-        "language": "Python",
+        "language": "Other",
         "description": "收录中文独立开发者的实用资源与经验合集，内容涵盖个人开发者如何从零启动产品、获取用户、实现盈利的全流程，包括灵感挖掘、技术选型、推广渠道、支付方式和增长案例等。适合正在独立开发或计划迈向自由职业的工程师，帮助规避常见风险并找到可复制的变现路径。信息组织以清单和推荐为主，带有一定的社区共享色彩，更新频率较高。"
     },
     "summary": {
         "initial_stars": 58812,
-        "current_stars": 61365,
-        "star_diff": 2553,
-        "growth_rate": 4.34,
+        "current_stars": 61379,
+        "star_diff": 2567,
+        "growth_rate": 4.36,
         "first_seen": "2026-07-20 06:00",
-        "last_seen": "2026-09-10 18:00",
-        "data_points_count": 53
+        "last_seen": "2026-09-11 00:00",
+        "data_points_count": 54
     },
     "history": [
         {
@@ -388,6 +388,13 @@
             "stars": 61365,
             "forks": 5377,
             "file": "data\/dist\/2026091018\/starList.public.json"
+        },
+        {
+            "date": "2026-09-11 00:00",
+            "timestamp": 1789056000,
+            "stars": 61379,
+            "forks": 5378,
+            "file": "data\/dist\/2026091100\/starList.public.json"
         }
     ]
 }
