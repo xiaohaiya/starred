@@ -6,16 +6,16 @@
         "name": "ChinaTextbook",
         "html_url": "https:\/\/github.com\/TapXWorld\/ChinaTextbook",
         "language": "Roff",
-        "description": "收集并分类中国国内教育各阶段教材电子版的仓库，以PDF等常见格式保存，按年级、科目和出版版本整理目录，方便快速定位和下载。主要面向学生、教师及自学者，解决纸质教材获取难、携带重的问题，也便于电子化备课和离线阅读。资源覆盖主要版本和学科，适合需要批量查阅或对照不同版本课本的场景，同时保持目录结构清晰，降低使用门槛。"
+        "description": "ChinaTextbook 汇集中国中小学教材电子版资源，按学段、年级、学科等维度整理，便于学生、教师和家长查找、下载与离线使用。它主要用于解决教材电子版分散、获取不便和存档困难等问题，适合自学复习、教师备课、家长辅导以及教育资料长期保存。使用前应留意各教材版权与授权范围，遵守相关平台和法律法规要求，仅将资源用于合法合规场景。"
     },
     "summary": {
         "initial_stars": 40979,
-        "current_stars": 81703,
-        "star_diff": 40724,
-        "growth_rate": 99.38,
+        "current_stars": 81743,
+        "star_diff": 40764,
+        "growth_rate": 99.48,
         "first_seen": "2025-06-24 15:00",
-        "last_seen": "2026-09-09 12:00",
-        "data_points_count": 428
+        "last_seen": "2026-09-11 18:00",
+        "data_points_count": 429
     },
     "history": [
         {
@@ -3013,6 +3013,13 @@
             "stars": 81703,
             "forks": 18545,
             "file": "data\/dist\/2026090912\/starList.public.json"
+        },
+        {
+            "date": "2026-09-11 18:00",
+            "timestamp": 1789120800,
+            "stars": 81743,
+            "forks": 18554,
+            "file": "data\/dist\/2026091118\/starList.public.json"
         }
     ]
 }
