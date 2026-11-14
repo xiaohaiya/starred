@@ -10,12 +10,12 @@
     },
     "summary": {
         "initial_stars": 5112,
-        "current_stars": 8560,
-        "star_diff": 3448,
-        "growth_rate": 67.45,
+        "current_stars": 8564,
+        "star_diff": 3452,
+        "growth_rate": 67.53,
         "first_seen": "2026-07-20 06:00",
-        "last_seen": "2026-11-14 18:00",
-        "data_points_count": 313
+        "last_seen": "2026-11-15 00:00",
+        "data_points_count": 314
     },
     "history": [
         {
@@ -2208,6 +2208,13 @@
             "stars": 8560,
             "forks": 413,
             "file": "data\/dist\/2026111418\/starList.public.json"
+        },
+        {
+            "date": "2026-11-15 00:00",
+            "timestamp": 1794672000,
+            "stars": 8564,
+            "forks": 413,
+            "file": "data\/dist\/2026111500\/starList.public.json"
         }
     ]
 }
